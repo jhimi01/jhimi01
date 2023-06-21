@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" height="300" width="100%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" height="300" width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Ummay Kulsum Jhimi</h1>
 <h3 align="center">A passionate frontend Web developer from Bangladesh</h3>
