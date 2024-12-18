@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ummay Kulsum Jhimi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhimi01&label=Profile%20views&color=0e75b6&style=flat" alt="jhimi01" /> </p>
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhimi01&show_icons=true&locale=en&layout=compact" alt="jhimi01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&locale=en" alt="jhimi01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&" alt="jhimi01" /></p>
