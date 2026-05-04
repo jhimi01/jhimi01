@@ -18,7 +18,7 @@
 <tr>
 <td width="65%" valign="top">
 
-- 🌱 Currently exploring **advanced React, Next.js & backend architecture**  
+- 🌱 Currently exploring **advanced React, Next.js, backend architecture & wordpress**  
 - 💡 Passionate about **Web Development & UI/UX Design**  
 - ⚙️ Love working with both **frontend & backend systems**  
 - 🧠 Always learning new technologies and improving performance & code quality  
