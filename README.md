@@ -75,7 +75,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   ✨
-  <img src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" />
 </p>
@@ -83,5 +82,5 @@
 ---
 
 <p align="center">
-  ⭐️ From <b>Jhimi</b>
+   From <b>Jhimi</b> (●'◡'●)
 </p>
