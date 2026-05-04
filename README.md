@@ -75,7 +75,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" />
 </p>
 
-
+---
 
 <p align="center">
   🎯💻🌍 From <b>Jhimi</b> | Built with 💙 ~_~
