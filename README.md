@@ -6,10 +6,6 @@
    I build modern, responsive, and scalable web applications with clean UI and great user experience.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhimi01&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
