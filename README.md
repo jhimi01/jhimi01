@@ -13,9 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+
 
 - 🌱 Currently exploring **advanced React, Next.js & backend architecture**
 - 💡 Passionate about **Web Development & UI/UX Design**
@@ -23,13 +21,10 @@
 - 🧠 Always learning new technologies and improving performance & code quality  
 - 📫 Reach me at: **talukderjhimi@gmail.com**
 
-</td>
 
-<td width="40%">
+
 <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" />
-</td>
-</tr>
-</table>
+
 
 ---
 
