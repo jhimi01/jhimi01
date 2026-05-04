@@ -74,18 +74,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  ✨
   <img src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" />
 </p>
-
----
-
-## ✨ Featured Projects
-- 🟢 Portfolio Website (React / Next.js)
-- 🟢 WordPress Custom Theme Development
-- 🟢 Full Stack CRUD App (Node + Express + MySQL/MongoDB)
-- 🟢 UI/UX Landing Page Designs (Figma to Code)
 
 ---
 
