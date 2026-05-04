@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ummay Kulsum Jhimi</h1>
-<h3 align="center">Full Stack Developer from Bangladesh</h3>
+<h3 align="center">Web Developer from Bangladesh</h3>
 
 <p align="center">
   I build modern, responsive, and scalable web applications using clean UI, strong backend logic, and great user experience.
@@ -18,7 +18,7 @@
 <td width="60%">
 
 - 🌱 Currently exploring **advanced React, Next.js & backend architecture**
-- 💡 Passionate about **Full Stack Web Development & UI/UX Design**
+- 💡 Passionate about **Web Development & UI/UX Design**
 - ⚙️ Love working with both **frontend & backend systems**
 - 🧠 Always learning new technologies and improving performance & code quality  
 - 📫 Reach me at: **talukderjhimi@gmail.com**
