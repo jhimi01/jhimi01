@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ummay Kulsum Jhimi</h1>
-<h3 align="center">Web Developer from Bangladesh</h3>
 
 <p align="center">
-  I build modern, responsive, and scalable web applications using clean UI, strong backend logic, and great user experience.
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0e75b6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;Full+Stack+Web+Developer;UI%2FUX+Enthusiast" />
+</p>
+
+<p align="center">
+  I build modern, responsive, and scalable web applications with clean UI, strong backend logic, and great user experience.
 </p>
 
 <p align="center">
@@ -19,9 +22,9 @@
 
 - 🌱 Currently exploring **advanced React, Next.js & backend architecture**  
 - 💡 Passionate about **Web Development & UI/UX Design**  
-- ⚙️ Love working with both **frontend & backend systems**  
-- 🧠 Always learning new technologies and improving performance & code quality  
-- 📫 Reach me at: **talukderjhimi@gmail.com**
+- ⚙️ Full Stack Developer (Frontend + Backend)  
+- 🧠 Always learning and improving system design & performance  
+- 📫 Email: **talukderjhimi@gmail.com**
 
 </td>
 
@@ -31,32 +34,58 @@
 </tr>
 </table>
 
+---
 
 ## 🚀 Tech Stack
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,mysql,mongodb,postgres,tailwind,bootstrap,git,github,figma,wordpress,vscode" />
 </p>
 
-### 🧠 Backend
+---
+
+## 💼 Featured Projects
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+
+### 🟢 Portfolio Website  
+Modern personal portfolio built with React & Next.js  
+→ Clean UI, animations, responsive design
+
+---
+
+### 🟢 WordPress Custom Theme  
+Fully dynamic WordPress theme development  
+→ Custom templates, PHP integration, CMS logic
+
+---
+
+### 🟢 Full Stack CRUD App  
+Node.js + Express + MongoDB/MySQL  
+→ Authentication, REST API, admin dashboard
+
+---
+
+### 🟢 UI/UX Landing Pages  
+Figma to Code conversion projects  
+→ Pixel-perfect responsive designs
+
 </p>
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+---
 
-### 🛠️ Tools & Platforms
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ummay-kulsum-jhimi-801ab227b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -71,15 +100,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph (Optional but Cool)
+
 <p align="center">
-  ✨
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  🎯💻🌍 From <b>Jhimi</b> ~_~
+  ⭐️ From <b>Jhimi</b> | Built with 💙 & Coffee ☕
 </p>
