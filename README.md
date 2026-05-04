@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ummay Kulsum Jhimi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0e75b6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;Full+Stack+Web+Developer;UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0e75b6&center=true&vCenter=true&width=600&lines=Web+Developer;WordPress+Developer;Frontend+Developer" />
 </p>
 
 <p align="center">
