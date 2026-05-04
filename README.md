@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
 
   <div style="flex: 1; padding-right: 20px;">
 
