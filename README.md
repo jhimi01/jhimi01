@@ -80,3 +80,7 @@
 <p align="center">
   🎯💻🌍 From <b>Jhimi</b> | Built with 💙 ~_~
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhimi01&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
