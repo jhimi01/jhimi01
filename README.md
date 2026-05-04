@@ -58,12 +58,6 @@
   <a href="https://www.linkedin.com/in/ummay-kulsum-jhimi-801ab227b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://codepen.io/jhimi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070252309405" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
 </p>
 
 ---
