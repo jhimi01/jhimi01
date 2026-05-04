@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ummay Kulsum Jhimi</h1>
-<h3 align="center">Frontend Developer from Bangladesh</h3>
+<h3 align="center">Full Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  I build clean, responsive, and user-friendly web interfaces using modern technologies.
+  I build modern, responsive, and scalable web applications using clean UI, strong backend logic, and great user experience.
 </p>
 
 <p align="center">
@@ -11,15 +11,16 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 <table>
 <tr>
 <td width="60%">
 
-- 🌱 Currently learning **React & Next.js**
-- 💡 Passionate about **Frontend Development & UI/UX**
-- ⚡ I love building clean and interactive web experiences  
+- 🌱 Currently exploring **advanced React, Next.js & backend architecture**
+- 💡 Passionate about **Full Stack Web Development & UI/UX Design**
+- ⚙️ Love working with both **frontend & backend systems**
+- 🧠 Always learning new technologies and improving performance & code quality  
 - 📫 Reach me at: **talukderjhimi@gmail.com**
 
 </td>
@@ -32,14 +33,31 @@
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery,bootstrap,tailwind" />
+</p>
+
+### 🧠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ummay-kulsum-jhimi-801ab227b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -54,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&theme=tokyonight" />
   <br/>
@@ -63,11 +81,11 @@
 
 ---
 
-### ✨ Featured Projects
-- 🔗 Add your best projects here
-- 🟢 Portfolio Website  
-- 🟢 WordPress Custom Theme  
-- 🟢 React App  
+## ✨ Featured Projects
+- 🟢 Portfolio Website (React / Next.js)
+- 🟢 WordPress Custom Theme Development
+- 🟢 Full Stack CRUD App (Node + Express + MySQL/MongoDB)
+- 🟢 UI/UX Landing Page Designs (Figma to Code)
 
 ---
 
