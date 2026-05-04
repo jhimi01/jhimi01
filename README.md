@@ -13,9 +13,9 @@
 
 ## 👩‍💻 About Me
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 20px;">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 🌱 Currently exploring **advanced React, Next.js & backend architecture**  
 - 💡 Passionate about **Web Development & UI/UX Design**  
@@ -23,13 +23,13 @@
 - 🧠 Always learning new technologies and improving performance & code quality  
 - 📫 Reach me at: **talukderjhimi@gmail.com**
 
-  </div>
+</td>
 
-  <div>
-    <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="320" />
-  </div>
-
-</div>
+<td width="35%" valign="top">
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300" />
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Tech Stack
