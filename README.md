@@ -6,16 +6,29 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhimi01&label=Profile%20views&color=0e75b6&style=flat" alt="jhimi01" />
+  <img src="https://komarev.com/ghpvc/?username=jhimi01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
 - 🌱 Currently learning **React & Next.js**
 - 💡 Passionate about **Frontend Development & UI/UX**
-- ⚡ I love building clean and interactive web experiences
+- ⚡ I love building clean and interactive web experiences  
 - 📫 Reach me at: **talukderjhimi@gmail.com**
+
+</td>
+
+<td width="40%">
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,19 +56,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhimi01&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhimi01&theme=tokyonight" />
 </p>
 
 ---
 
 ### ✨ Featured Projects
-- 🔗 Add your best projects here (very important!)
-- Example:
-  - 🟢 Portfolio Website
-  - 🟢 WordPress Custom Theme
-  - 🟢 React App
+- 🔗 Add your best projects here
+- 🟢 Portfolio Website  
+- 🟢 WordPress Custom Theme  
+- 🟢 React App  
 
 ---
 
